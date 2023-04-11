@@ -1,13 +1,30 @@
-# Challenge_3
-WHEN you click the button to generate a password
-you are presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN you select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN choose a length of at least 8 characters and no more than 128 characters
-WHEN asked for character types to include in the password
-THEN confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+<h1>JavaScript Challenge: Password Generator</h1>
+This project involves creating a random password generator application to help users generate secure passwords based on their selected criteria. The application runs in the browser and features a responsive, user-friendly interface with dynamically updated HTML and CSS powered by JavaScript.
+
+Password Generator Screenshot
+
+<h2>Live Demo</h2>
+You can view the live demo of the password generator application here: Password Generator Demo
+
+<h2>Features</h2>
+Generate a random password based on user-selected criteria
+Choose password length between 8 and 128 characters
+Include options for lowercase, uppercase, numeric, and/or special characters
+Input validation to ensure at least one character type is selected
+Display the generated password in an alert or write it to the page
+<h2>Installation</h2>
+Clone the repository
+bash
+Copy code
+git clone https://github.com/ndubuisiazi/JavaScript_Password_Generator.git
+Open the index.html file in your preferred web browser.
+Usage
+Click the "Generate Password" button to start the password generation process.
+Follow the prompts to select your desired password criteria.
+After answering all the prompts, a random password will be generated and displayed.
+Technologies Used
+HTML
+CSS
+JavaScript
+<h2>Acknowledgements</h2>
+This project was completed as part of a web development course challenge. The primary goal was to create a random password generator application that provides users with secure passwords based on their selected criteria, using HTML, CSS, and JavaScript.
