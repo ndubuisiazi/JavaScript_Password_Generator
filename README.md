@@ -2,7 +2,7 @@
 This project involves creating a random password generator application to help users generate secure passwords based on their selected criteria. The application runs in the browser and features a responsive, user-friendly interface with dynamically updated HTML and CSS powered by JavaScript.
 
 <h2>Password Generator Screenshot<h2>
-![Password Generator Screenshot](./screenshot.png)
+![Password Generator Screenshot](screenshot.png)
 
 
 <h2>Features</h2>
