@@ -1,10 +1,9 @@
 <h1>JavaScript Challenge: Password Generator</h1>
 This project involves creating a random password generator application to help users generate secure passwords based on their selected criteria. The application runs in the browser and features a responsive, user-friendly interface with dynamically updated HTML and CSS powered by JavaScript.
 
-Password Generator Screenshot
+<h2>Password Generator Screenshot<h2>
+![Password Generator Screenshot](./screenshot.png)
 
-<h2>Live Demo</h2>
-You can view the live demo of the password generator application here: Password Generator Demo
 
 <h2>Features</h2>
 Generate a random password based on user-selected criteria
